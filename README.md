@@ -11,3 +11,8 @@
 4. type ```react-native run-android```
 
 To back in navigetion use swipe like on ios.
+
+##Screens
+![Main scene](https://github.com/38Slava/soundcloud-react-native/blob/master/Screenshot_2016-01-25-21-22-35.jpg "Main scene")
+![Main scene](https://github.com/38Slava/soundcloud-react-native/blob/master/Screenshot_2016-01-25-21-22-54.jpg "Followings scene")
+![Main scene](https://github.com/38Slava/soundcloud-react-native/blob/master/Screenshot_2016-01-25-21-23-07.jpg "Back on navigation")
