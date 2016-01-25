@@ -44,7 +44,7 @@ class SoundCloudRN extends React.Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: GLOBAL_STYLES.mainColor,
+    backgroundColor: '#F5FCFF',
   },
 });
 
