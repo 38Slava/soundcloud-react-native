@@ -10,7 +10,7 @@
 3. In constants/constants.js change ```REQUEST_URL``` to your ip adress. Live port 3000.
 4. type ```react-native run-android```
 
-To back in navigetion use swipe like on ios.
+To back in navigation use swipe like on ios.
 
 ##Screens
 ![Main scene](https://github.com/38Slava/soundcloud-react-native/blob/master/Screenshot_2016-01-25-21-22-35.jpg "Main scene")
